@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14135" systemVersion="17G65" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="AlphabetLocationA" representedClassName="AlphabetLocationA" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationB" representedClassName="AlphabetLocationB" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationC" representedClassName="AlphabetLocationC" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationD" representedClassName="AlphabetLocationD" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationE" representedClassName="AlphabetLocationE" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationF" representedClassName="AlphabetLocationF" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationG" representedClassName="AlphabetLocationG" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationH" representedClassName="AlphabetLocationH" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationI" representedClassName="AlphabetLocationI" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationJ" representedClassName="AlphabetLocationJ" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationK" representedClassName="AlphabetLocationK" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationL" representedClassName="AlphabetLocationL" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationM" representedClassName="AlphabetLocationM" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationN" representedClassName="AlphabetLocationN" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationO" representedClassName="AlphabetLocationO" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationP" representedClassName="AlphabetLocationP" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationQ" representedClassName="AlphabetLocationQ" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationR" representedClassName="AlphabetLocationR" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationS" representedClassName="AlphabetLocationS" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationT" representedClassName="AlphabetLocationT" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationU" representedClassName="AlphabetLocationU" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationV" representedClassName="AlphabetLocationV" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationW" representedClassName="AlphabetLocationW" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationX" representedClassName="AlphabetLocationX" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationY" representedClassName="AlphabetLocationY" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="AlphabetLocationZ" representedClassName="AlphabetLocationZ" syncable="YES">
+        <attribute name="ccode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="AlphabetLocationA" positionX="-63" positionY="-18" width="128" height="105"/>
+        <element name="AlphabetLocationB" positionX="-63" positionY="9" width="128" height="105"/>
+        <element name="AlphabetLocationC" positionX="-54" positionY="36" width="128" height="105"/>
+        <element name="AlphabetLocationD" positionX="-36" positionY="54" width="128" height="105"/>
+        <element name="AlphabetLocationE" positionX="-18" positionY="72" width="128" height="105"/>
+        <element name="AlphabetLocationF" positionX="0" positionY="90" width="128" height="105"/>
+        <element name="AlphabetLocationG" positionX="18" positionY="108" width="128" height="105"/>
+        <element name="AlphabetLocationH" positionX="36" positionY="126" width="128" height="105"/>
+        <element name="AlphabetLocationI" positionX="-9" positionY="81" width="128" height="105"/>
+        <element name="AlphabetLocationJ" positionX="0" positionY="90" width="128" height="105"/>
+        <element name="AlphabetLocationK" positionX="9" positionY="99" width="128" height="105"/>
+        <element name="AlphabetLocationL" positionX="18" positionY="108" width="128" height="105"/>
+        <element name="AlphabetLocationM" positionX="27" positionY="117" width="128" height="105"/>
+        <element name="AlphabetLocationN" positionX="36" positionY="126" width="128" height="105"/>
+        <element name="AlphabetLocationO" positionX="45" positionY="135" width="128" height="105"/>
+        <element name="AlphabetLocationP" positionX="-9" positionY="90" width="128" height="105"/>
+        <element name="AlphabetLocationQ" positionX="0" positionY="99" width="128" height="105"/>
+        <element name="AlphabetLocationR" positionX="9" positionY="108" width="128" height="105"/>
+        <element name="AlphabetLocationS" positionX="18" positionY="117" width="128" height="105"/>
+        <element name="AlphabetLocationT" positionX="27" positionY="126" width="128" height="105"/>
+        <element name="AlphabetLocationU" positionX="36" positionY="135" width="128" height="105"/>
+        <element name="AlphabetLocationV" positionX="45" positionY="144" width="128" height="105"/>
+        <element name="AlphabetLocationW" positionX="-9" positionY="90" width="128" height="105"/>
+        <element name="AlphabetLocationX" positionX="0" positionY="99" width="128" height="105"/>
+        <element name="AlphabetLocationY" positionX="9" positionY="108" width="128" height="105"/>
+        <element name="AlphabetLocationZ" positionX="18" positionY="117" width="128" height="105"/>
+    </elements>
+</model>
